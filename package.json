@@ -2,7 +2,7 @@
   "author": "Dan Jenkins <dan.jenkins@holidayextras.com> (www.dan-jenkins.co.uk)",
   "name": "aql",
   "description": "A wrapper around AQL's APIs (SMS/Fax/VoIP)",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/holidayextras/node-aql",
   "repository": {
     "type": "git",
