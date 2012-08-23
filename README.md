@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/holidayextras/node-aql.png)](http://travis-ci.org/holidayextras/node-aql)
 node-aql
 ========
 
